@@ -36,8 +36,3 @@ if __name__ == "__main__":
             print("[!] Couldn't successfully fetch page. \n")
             print(response.content)
             print("\n\n")
-
-
-
-
-
